@@ -3,7 +3,6 @@
 
 ## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm George. Welcome to my GitHub profile! 
-Coding grants me the freedom of being creative, experimental, focused and allows me to continuously improve. 
 * :mortar_board: MSc Computer Engineering & Informatics at University of Patras.  
   
 ## > projects_
