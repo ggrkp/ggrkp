@@ -2,7 +2,7 @@
 # [![Header](hero.png)](https://www.linkstoportfoliomou.com)
 
 ## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risus, id bibendum lectus congue ac. Vivamus at ligula at felis accumsan viverra nec sit amet justo. Nulla dignissim maximus risus, et auctor leo dictum ac. Integer tristique, nulla vitae tristique accumsan, enim justo pulvinar est, in laoreet nunc elit et ipsum.
+<About placeholder>
 ## > projects_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=Project2)](https://github.com/ggrkp/Project2)
@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risu
 
 
 ## > languages & tools_
- an viverra nec sit amet justo. Nulla dignissim maximus risus, et auctor leo dictum ac. 
+I developed my Thesis project using Python. I am currently working with Javascript, mostly using the React library .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrkp&layout=compact)](https://github.com/ggrkp/github-readme-stats)
 
@@ -23,11 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risu
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risus, id bibendum lectus congue ac. Vivamus at ligula at felis accumsan viverra nec sit amet justo. 
-
-
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
