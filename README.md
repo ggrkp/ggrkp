@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risu
 ## > connect_
 
 
-<a href="https://www.linkedin.com/in/georgakopoulos-georgios/"> <img src="https://img.shields.io/badge/LinkedIn-blue" width = 140px> </a>
+<a href="https://www.linkedin.com/in/ggrkp/"> <img src="https://img.shields.io/badge/LinkedIn-blue" width = 140px> </a>
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
