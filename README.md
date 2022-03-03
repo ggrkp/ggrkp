@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risu
 ## > projects_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=Project2)](https://github.com/ggrkp/Project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=Project1)](https://github.com/ggrkp/Project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=expense-app)](https://github.com/ggrkp/expense-app)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=DALTON)](https://github.com/ggrkp/Project2) -->
 
 
