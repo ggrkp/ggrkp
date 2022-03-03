@@ -14,8 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risu
 ## > languages & tools_
  an viverra nec sit amet justo. Nulla dignissim maximus risus, et auctor leo dictum ac. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrkp&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrkp&layout=compact)](https://github.com/ggrkp/github-readme-stats)
 
 ## > connect_
 
