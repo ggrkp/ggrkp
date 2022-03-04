@@ -4,6 +4,7 @@
 ## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm George. Welcome to my GitHub profile! 
 * :mortar_board: MSc Computer Engineering & Informatics at University of Patras.  
+* :pencil: Find my Thesis Project in the following section.
   
 ## > projects_
 
