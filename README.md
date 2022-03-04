@@ -1,9 +1,6 @@
-<!-- todo: Header Image me stoixeia mou endexomenws kai link sto portfolio mou -->
-<!-- # [![Header](hero.png)](https://www.linkstoportfoliomou.com) -->
-
 ## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm George. Welcome to my GitHub profile! 
-* :mortar_board: MSc Computer Engineering & Informatics at University of Patras.  
+* :mortar_board: (MSc) Computer Engineering & Informatics at University of Patras.  
 * :pencil: Find my Thesis Project in the following section.
   
 ## > projects_
@@ -29,14 +26,3 @@ I developed my Thesis project using Python. I am currently working with Javascri
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
-<!-- ## .stats
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia euismod risus, id bibendum lectus congue ac. Vivamus at ligula at felis accumsan viverra nec sit amet justo. Nulla dignissim maximus risus, et auctor leo dictum ac. Integer tristique, nulla vitae tristique accumsan, enim justo pulvinar est, in laoreet nunc elit et ipsum. Aliquam facilisis laoreet ligula scelerisque vulputate. Ut at sem elementum, tincidunt magna eget, auctor turpis. Nullam lacinia sed dolor sed imperdiet. Cras porttitor lacus id tellus vulputate, vitae sodales mi sollicitudin. Duis sagittis urna et laoreet placerat. Sed nec eros non quam fermentum lobortis. Suspendisse potenti. Donec et eros imperdiet, tincidunt tellus ac, feugiat urna. Maecenas posuere ipsum arcu, nec aliquam eros interdum id. Vestibulum condimentum sapien odio, nec condimentum enim euismod ut. --> 
-
-
-
-
-
-
-
-
