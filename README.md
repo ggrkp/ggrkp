@@ -7,7 +7,7 @@ Hi, I'm George. Welcome to my GitHub profile!
   
 ## > projects_
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=Project2)](https://github.com/ggrkp/Project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=dalton-project)](https://github.com/ggrkp/dalton-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=expense-app)](https://github.com/ggrkp/expense-app)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=DALTON)](https://github.com/ggrkp/Project2) -->
 
