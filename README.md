@@ -1,5 +1,5 @@
 <!-- todo: Header Image me stoixeia mou endexomenws kai link sto portfolio mou -->
-# [![Header](hero.png)](https://www.linkstoportfoliomou.com)
+<!-- # [![Header](hero.png)](https://www.linkstoportfoliomou.com) -->
 
 ## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm George. Welcome to my GitHub profile! 
