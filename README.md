@@ -4,12 +4,8 @@ Hi, I'm George. Welcome to my GitHub profile!
 * :pencil: Find my Thesis Project in the following section.
   
 ## > projects_
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=dalton_project)](https://github.com/ggrkp/dalton_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=expense-app)](https://github.com/ggrkp/expense-app)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=DALTON)](https://github.com/ggrkp/Project2) -->
-
-
 
 ## > languages & tools_
 I developed my Thesis project using Python. I am currently working with Javascript, mostly using the React library .
