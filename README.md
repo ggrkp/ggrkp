@@ -1,18 +1,18 @@
-## > about_ <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## About <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm George. Welcome to my GitHub profile! 
 * :mortar_board: (MSc) Computer Engineering & Informatics at University of Patras.  
 * :pencil: Find my Thesis Project in the following section.
   
-## > projects_
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=dalton_project)](https://github.com/ggrkp/dalton_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=expense-app)](https://github.com/ggrkp/food-order-app)
 
-## > languages & tools_
+## Languages & Tools
 I developed my Thesis project using Python. I am currently working with Javascript, mostly using the React library .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrkp&layout=compact)](https://github.com/ggrkp/github-readme-stats)
 
-## > connect_
+## Connect
 
 
 <a href="https://www.linkedin.com/in/ggrkp/"> <img src="https://img.shields.io/badge/LinkedIn-blue" width = 140px> </a>
