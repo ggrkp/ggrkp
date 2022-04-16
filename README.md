@@ -5,7 +5,7 @@ Hi, I'm George. Welcome to my GitHub profile!
   
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=dalton_project)](https://github.com/ggrkp/dalton_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=expense-app)](https://github.com/ggrkp/food-order-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=food-order-app)](https://github.com/ggrkp/food-order-app)
 
 ## Languages & Tools
 I developed my Thesis project using Python. I am currently working with Javascript, mostly using the React library .
