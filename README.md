@@ -1,7 +1,7 @@
 Hi 👋 My name is George.
 ========================
 
-Software Engineer
+I'm a Software Engineer
 -----------------
 
 I completed my studies on Software Engineering and Informatics (BSc/MSc) at UoP, Greece, gaining coding experience through various team and individual projects. I completed my Thesis "Design and Development of an AutoML Tool for IoT Applications" in Python using several libraries and tools. I gained work experience on web development, occupied as a developer at a greek company. My interest, currently, is web development and I'm working on several projects focusing on Javasctipt libraries and frameworks such as ReactJS, ReduxJS, NextJS, NodeJS, ExpressJS. Coding grants me the freedom of being creative, experimental, keeps me focused and allows me to continuously improve.
