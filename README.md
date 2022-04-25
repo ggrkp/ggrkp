@@ -8,7 +8,7 @@ I completed my studies on Software Engineering and Informatics (BSc/MSc) at UoP,
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [ggeorg.personal@gmail.com](mailto:ggeorg.personal@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning React JS, ReduxJS, NextJS, ExpressJS
 * ⚡  Currently fulfilling my Military Obligations until Sep '22 and studying new technologies
 
 ### Skills
