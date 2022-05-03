@@ -11,7 +11,7 @@ My current interest is web development and I'm working on several projects and a
 
 I am, currently, fulfilling my military obligations until September '22, while I'm also expanding my knowledge and skills in my field of interest, through constant studying and practice in my spare time. 
 
-I also conducted my Thesis, "Design and Development of an AutoML Tool for IoT Applications" in Python, using several libraries and tools. You can see my work in the Projects section.
+I also conducted my Thesis, "Design and Development of an AutoML Tool for IoT Applications (DALTON)" in Python, using several libraries and tools.
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [ggeorg.personal@gmail.com](mailto:ggeorg.personal@gmail.com)
