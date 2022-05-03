@@ -4,7 +4,14 @@ Hi 👋 My name is George.
 I'm a Software Engineer
 -----------------
 
-I completed my studies on Software Engineering and Informatics (BSc/MSc) at UoP, Greece, gaining coding experience through various team and individual projects. I completed my Thesis "Design and Development of an AutoML Tool for IoT Applications" in Python using several libraries and tools. I gained work experience on web development, occupied as a developer at a greek company. My interest, currently, is web development and I'm working on several projects focusing on Javasctipt libraries and frameworks such as ReactJS, ReduxJS, NextJS, NodeJS, ExpressJS. Coding grants me the freedom of being creative, experimental, keeps me focused and allows me to continuously improve.
+I completed my studies on Software Engineering and Informatics (BSc/MSc) at UoP, Greece, gaining coding experience through various team and individual projects.
+I gained work experience mainly on web development, occupied as a Developer.
+
+My current interest is web development and I'm working on several projects and attending courses focusing on Javascript libraries and frameworks ( ReactJS, ReduxJS, NextJS, NodeJS ).
+
+I am, currently, fulfilling my military obligations until September '22, while I'm also expanding my knowledge and skills in my field of interest, through constant studying and practice in my spare time. 
+
+I also conducted my Thesis, "Design and Development of an AutoML Tool for IoT Applications" in Python, using several libraries and tools. You can see my work in the Projects section.
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [ggeorg.personal@gmail.com](mailto:ggeorg.personal@gmail.com)
