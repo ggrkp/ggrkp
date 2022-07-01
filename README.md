@@ -50,6 +50,3 @@ I also conducted my Thesis, "Design and Development of an AutoML Tool for IoT Ap
   </a>
   
   <a href="https://github.com/ggrkp/dalton_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ggrkp&repo=dalton_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
-
-  
-  <br /><br /><br /><br /><br /><br /><br />
