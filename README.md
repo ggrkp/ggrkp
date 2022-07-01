@@ -9,13 +9,13 @@ I gained work experience mainly on web development, occupied as a Developer.
 
 My current interest is web development and I'm working on several projects and attending courses focusing on Javascript libraries and frameworks ( ReactJS, ReduxJS, NextJS, NodeJS ).
 
-I am, currently, fulfilling my military obligations until September '22, while I'm also expanding my knowledge and skills in my field of interest, through constant studying and practice in my spare time. 
+I'm expanding my knowledge and skills in my field of interest, through constant studying and work. 
 
 I also conducted my Thesis, "Design and Development of an AutoML Tool for IoT Applications (DALTON)" in Python, using several libraries and tools.
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [ggeorg.personal@gmail.com](mailto:ggeorg.personal@gmail.com)
-* 🧠  I'm learning React JS, ReduxJS, NextJS, ExpressJS
+* 🧠  I'm working with Javascript, React JS, ReduxJS, Nodejs, ExpressJS, HTML, CSS
 * ⚡  Currently fulfilling my Military Obligations until Sep '22 and studying new technologies
 
 ### Skills
