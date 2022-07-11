@@ -1,13 +1,13 @@
 Hi 👋 My name is George.
 ========================
 
-I'm a Software Engineer
+I'm a Software Developer
 -----------------
 
 I completed my studies on Software Engineering and Informatics (BSc/MSc) at UoP, Greece, gaining coding experience through various team and individual projects.
 I gained work experience mainly on web development, occupied as a Developer.
 
-My current interest is web development and I'm working on several projects and attending courses focusing on Javascript libraries and frameworks ( ReactJS, ReduxJS, NextJS, NodeJS ).
+My current interest is web development and I'm working on several projects and attending courses focusing on Javascript libraries and frameworks ( ReactJS, NodeJS, Express ).
 
 I'm expanding my knowledge and skills in my field of interest, through constant studying and work. 
 
